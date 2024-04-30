@@ -1,0 +1,28 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	ColaxSword: {
+		DisplayName: Colax Sword
+		Tooltip: Has a 25% chance to inflict 'Colax Toxin'
+	}
+
+	ColaxGemspear: {
+		DisplayName: Colax Gemspear
+		Tooltip: ""
+	}
+
+	ColaxCrystal: {
+		DisplayName: Colax Crystal
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	ColaxToxin: {
+		DisplayName: Colax Toxin
+		Description: You feel ill...
+	}
+}
+
+Projectiles.ColaxSpearProjectile.DisplayName: Colax Spear Projectile
+NPCs.ColaxSlime.DisplayName: Colax Slime
